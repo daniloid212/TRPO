@@ -1,0 +1,15 @@
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\calculator.exe
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\calculator.deps.json
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\calculator.dll
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\ref\calculator.dll
+C:\Users\danya\Desktop\TRPO\calculator\bin\Debug\net6.0\calculator.pdb
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.dll
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\ref\calculator.dll
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.pdb
+C:\Users\danya\Desktop\TRPO\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
