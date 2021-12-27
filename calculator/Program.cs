@@ -4,6 +4,7 @@
     {
         while (true)
         {
+            Console.WriteLine("HELLO WORLD");
             Console.WriteLine("Введите первое число ");
             double Num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите знак операции ");
@@ -35,7 +36,6 @@
             }
             Result = Num1 / Num2;
             Console.WriteLine(Result);
-            Console.WriteLine("HELLO");
         }
     }
 
