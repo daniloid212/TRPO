@@ -24,11 +24,16 @@
                     Console.WriteLine("На ноль делить нельзя!");
                     continue;
                 }
-            else
+                else
                 {
                     Result = Num1 / Num2;
                 }
-                Result = Num1 / Num2;
+            else
+            {
+                Console.WriteLine("Поддерживаются только операции + - * /");
+                continue;
+            }
+            Result = Num1 / Num2;
             Console.WriteLine(Result);
         }
     }
