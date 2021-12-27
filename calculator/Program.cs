@@ -36,6 +36,7 @@
             }
             Result = Num1 / Num2;
             Console.WriteLine(Result);
+            Console.WriteLine("HELLO GNIDA");
         }
     }
 
