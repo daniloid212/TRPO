@@ -19,6 +19,15 @@
             else if (Operation == "*")
                 Result = Num1 * Num2;
             else if (Operation == "/")
+                if (Num2 == 0)
+                {
+                    Console.WriteLine("На ноль делить нельзя!");
+                    continue;
+                }
+            else
+                {
+                    Result = Num1 / Num2;
+                }
                 Result = Num1 / Num2;
             Console.WriteLine(Result);
         }
